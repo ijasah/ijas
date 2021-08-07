@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.f5497eb8.chunk.css",
+    "main.js": "/home/static/js/main.e23aa69e.chunk.js",
+    "main.js.map": "/home/static/js/main.e23aa69e.chunk.js.map",
+    "runtime-main.js": "/home/static/js/runtime-main.3c590061.js",
+    "runtime-main.js.map": "/home/static/js/runtime-main.3c590061.js.map",
+    "static/js/2.46a1e027.chunk.js": "/home/static/js/2.46a1e027.chunk.js",
+    "static/js/2.46a1e027.chunk.js.map": "/home/static/js/2.46a1e027.chunk.js.map",
+    "index.html": "/home/index.html",
+    "precache-manifest.2a4aba2eb0a9f2db98fee8143e63aed8.js": "/home/precache-manifest.2a4aba2eb0a9f2db98fee8143e63aed8.js",
+    "service-worker.js": "/home/service-worker.js",
+    "static/css/main.f5497eb8.chunk.css.map": "/home/static/css/main.f5497eb8.chunk.css.map",
+    "static/js/2.46a1e027.chunk.js.LICENSE.txt": "/home/static/js/2.46a1e027.chunk.js.LICENSE.txt",
+    "static/media/Analytics_vidhya.png": "/home/static/media/Analytics_vidhya.56c9b58c.png",
+    "static/media/Ijas.jpg": "/home/static/media/Ijas.2fd7ef42.jpg",
+    "static/media/ihrd.jpeg": "/home/static/media/ihrd.25404f73.jpeg",
+    "static/media/infosys.png": "/home/static/media/infosys.6dc2e741.png",
+    "static/media/project1.jpg": "/home/static/media/project1.2fb0cf2e.jpg",
+    "static/media/project2.jpg": "/home/static/media/project2.d0b44561.jpg",
+    "static/media/project3.jpg": "/home/static/media/project3.850ee75a.jpg",
+    "static/media/resume.pdf": "/home/static/media/resume.193c7ed0.pdf",
+    "static/media/sayone.png": "/home/static/media/sayone.0897251a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c590061.js",
+    "static/js/2.46a1e027.chunk.js",
+    "static/css/main.f5497eb8.chunk.css",
+    "static/js/main.e23aa69e.chunk.js"
+  ]
+}
